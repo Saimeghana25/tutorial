@@ -1,0 +1,7 @@
+KGTM-This is the logo of our group!
+As we are of 4 members,namely kavya,geethika,thanvi,meghana!
+#include<stdio.h>
+void main()
+{
+	printf("KGTM");
+}
